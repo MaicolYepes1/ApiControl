@@ -1,0 +1,1000 @@
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\wwwroot\variables\WacomVariables.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\nav.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.StaticWebAssets.xml
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.exe
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.deps.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.License.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.Pdf.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET.Core.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Compression.Portable.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Licensing.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Pdf.Portable.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Notice.txt
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.input.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\HelloWorld.razor.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\_Imports.razor.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.output.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.input.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.output.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorCoreGenerate.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\HelloWorld.razor.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\_Imports.razor.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Roles.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Users.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Layout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Logo.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageFooter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageHeader.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\SecurityExpert\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ColorProfileReference.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Compose.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ComposeLayout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Contact.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CopyrightHeader.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownApp.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownMenu.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownNotification.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Favicon.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_GoogleAnalytics.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LeftPanel.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Logo.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Menu.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilterMsg.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFooter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavInfoCard.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageBreadcrumb.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageContentOverlay.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageFooter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeader.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeading.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageSettings.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsBasePlugins.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsLoadingSaving.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMenu.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMessenger.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutModal.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Signature.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabMsgr.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabSettings.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Visitantes\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.Manifest.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.xml
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\scopedcss\bundle\WebControlAcceso.WEB.styles.css
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.genruntimeconfig.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\wwwroot\variables\WacomVariables.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.Development.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\nav.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.StaticWebAssets.xml
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.exe
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.deps.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.dev.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.License.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.Pdf.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Humanizer.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET-Q16-AnyCPU.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET.Core.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\RestSharp.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Compression.Portable.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Licensing.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Pdf.Portable.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Notice.txt
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Notice.txt
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Notice.txt
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Notice.txt
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Notice.txt
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csprojAssemblyReference.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfoInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CoreCompileInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.input.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\HelloWorld.razor.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\_Imports.razor.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.output.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\WebControlAcceso.WEB.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.input.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.output.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorCoreGenerate.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\HelloWorld.razor.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\_Imports.razor.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Roles.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Users.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewImports.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewStart.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Layout.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Logo.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageFooter.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageHeader.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\SecurityExpert\Index.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ColorProfileReference.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Compose.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ComposeLayout.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Contact.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CopyrightHeader.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownApp.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownMenu.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownNotification.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Favicon.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_GoogleAnalytics.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LeftPanel.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Logo.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Menu.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilter.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilterMsg.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFooter.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavInfoCard.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageBreadcrumb.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageContentOverlay.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageFooter.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeader.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeading.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageSettings.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsBasePlugins.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsLoadingSaving.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMenu.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMessenger.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutModal.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Signature.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabMsgr.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabSettings.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Visitantes\Index.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.Manifest.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.xml
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\scopedcss\bundle\WebControlAcceso.WEB.styles.css
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CopyComplete
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.genruntimeconfig.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\wwwroot\variables\WacomVariables.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\nav.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.StaticWebAssets.xml
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.exe
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.deps.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.License.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.Pdf.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET.Core.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Compression.Portable.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Licensing.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Pdf.Portable.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Notice.txt
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Notice.txt
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.input.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\HelloWorld.razor.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\_Imports.razor.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.output.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.input.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.output.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorCoreGenerate.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\HelloWorld.razor.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\_Imports.razor.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Roles.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Users.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Layout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Logo.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageFooter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageHeader.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\SecurityExpert\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ColorProfileReference.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Compose.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ComposeLayout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Contact.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CopyrightHeader.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownApp.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownMenu.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownNotification.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Favicon.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_GoogleAnalytics.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Head.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LeftPanel.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Logo.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Menu.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilterMsg.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFooter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavInfoCard.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageBreadcrumb.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageContentOverlay.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageFooter.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeader.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeading.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageSettings.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsBasePlugins.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsLoadingSaving.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMenu.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMessenger.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutModal.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Signature.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabMsgr.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabSettings.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Visitantes\Index.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.Manifest.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.xml
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\scopedcss\bundle\WebControlAcceso.WEB.styles.css
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.genruntimeconfig.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\wwwroot\variables\WacomVariables.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.Development.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\appsettings.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\nav.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.StaticWebAssets.xml
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.exe
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.deps.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.runtimeconfig.dev.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.License.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Spire.Pdf.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Humanizer.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET-Q16-AnyCPU.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Magick.NET.Core.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\RestSharp.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Compression.Portable.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Licensing.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\Syncfusion.Pdf.Portable.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\Notice.txt
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\linux-x64\native\Notice.txt
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\osx-x64\native\Notice.txt
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Notice.txt
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Notice.txt
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.DEPENDENCY.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.MODELS.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.SERVICES.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\bin\Debug\net5.0\WebControlAcceso.PROVIDERS.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.AssemblyReference.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfoInputs.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.AssemblyInfo.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CoreCompileInputs.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.input.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\HelloWorld.razor.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\Pages\_Imports.razor.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorComponent.output.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\RazorDeclaration\WebControlAcceso.WEB.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.input.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.TagHelpers.output.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorCoreGenerate.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\HelloWorld.razor.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Pages\_Imports.razor.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Roles.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\Users.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewImports.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Authorization\Pages\_ViewStart.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Layout.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_Logo.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageFooter.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_PageHeader.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\SecurityExpert\Index.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Components\Navigation\Default.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ColorProfileReference.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Compose.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ComposeLayout.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Contact.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_CopyrightHeader.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownApp.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownMenu.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_DropdownNotification.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Favicon.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_GoogleAnalytics.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Head.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LeftPanel.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Logo.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Menu.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilter.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFilterMsg.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavFooter.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_NavInfoCard.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageBreadcrumb.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageContentOverlay.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageFooter.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeader.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageHeading.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_PageSettings.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsBasePlugins.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ScriptsLoadingSaving.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMenu.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutMessenger.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ShortcutModal.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_Signature.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabMsgr.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_TabSettings.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\Visitantes\Index.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorAssemblyInfo.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.Manifest.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\staticwebassets\WebControlAcceso.WEB.StaticWebAssets.xml
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\scopedcss\bundle\WebControlAcceso.WEB.styles.css
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.RazorTargetAssemblyInfo.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.Views.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.csproj.CopyComplete
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\ref\WebControlAcceso.WEB.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\obj\Debug\net5.0\WebControlAcceso.WEB.genruntimeconfig.cache

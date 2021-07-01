@@ -1,0 +1,56 @@
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.deps.json
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\AS-Access Frontend\WebControlAcceso\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.deps.json
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csprojAssemblyReference.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CopyComplete
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Control Acceso\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.deps.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.deps.json
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.AssemblyReference.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfoInputs.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfo.cs
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CopyComplete
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
