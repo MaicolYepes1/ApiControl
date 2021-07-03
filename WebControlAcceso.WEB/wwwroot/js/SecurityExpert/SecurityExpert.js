@@ -553,6 +553,8 @@ function change() {
     $("#recordGroup").val(ud.recordGroup);
     $("#initdate").val(ud.startDate.split('T')[0]);
     $("#enddate").val(ud.expiritDate.split('T')[0]);
+    $("#Sites").val(ud.siteId);
+    getCustomFields(ud.siteId);
     var obj = {};
     obj['UserID'] = UserID;
     $.ajax({
@@ -569,9 +571,11 @@ function change() {
                     var obj = {};
                     data.access.forEach(function (valor, indice, array) {
                         contl++;
-                        html += '<form id ="accessLevels' + valor.userAccessLevel + '"><div class="row"><div class="col-xl-2"></div><div class="col-xl-4"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="'
-                            + valor.userAccessLevel + '" name="userAccessLevel" checked><label class="custom-control-label" for="' + valor.userAccessLevel + '">' + valor.name +
-                            '</label></div></div><div class="col-xl-2"><label class="form-label">Fecha Inicio - Fecha Fin</label></div><div class="col-xl-4"><div class="input-daterange input-group" id="datepicker-' + contl + '" name="fechas"> <input type="text" class="form-control" name="userAccessLevelStart" value="' + valor.userAccessLevelStart.split('T')[0] + '"> <div class="input-group-append input-group-prepend"> <span class="input-group-text fs-xl"><i class="@(Settings.Theme.IconPrefix) fa-ellipsis-h"></i></span></div><input type="text" class="form-control" name="userAccessLevelEnd" value="' + valor.userAccessLevelEnd.split('T')[0].replace('-', '/') + '"></div></div></div></form>';
+                        html += '<form id ="accessLevels' + valor.accessLevelId + '"><div class="row"><div class="col-xl-2"></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="'
+                            + valor.accessLevelId + '" name="userAccessLevel" checked><label class="custom-control-label" for="' + valor.accessLevelId + '">' + valor.name +
+                            '</label></div></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="Active'
+                            + valor.accessLevelId + '" name="dateActive"><label class="custom-control-label" for="Active' + valor.accessLevelId + '">' + "Active" +
+                            '</label></div></div><div class="col-xl-2"><label class="form-label">Fecha Inicio - Fecha Fin</label></div><div class="col-xl-4"><div class="input-daterange input-group" id="datepicker-' + cont + '" name="fechas"> <input type="text" class="form-control" name="userAccessLevelStart"> <div class="input-group-append input-group-prepend"> <span class="input-group-text fs-xl"><i class="@(Settings.Theme.IconPrefix) fa-ellipsis-h"></i></span></div><input type="text" class="form-control" name="userAccessLevelEnd"></div></div></div></form>';
                         obj = valor.userAccessLevel;
                         accessLevelsIdUser['IdAccess'].push(obj);
                     });
@@ -585,7 +589,7 @@ function change() {
                     var html = "";
                     data.cards.forEach(function (valorCard, indiceCard, array) {
                         html += '<form id="tarjetsForm' + indiceCard + '"><div class="row" ><div class="col-xl-3"><div class="col-md-12 mb-3" style="text-align: center; padding: 7px;"><label class="form-label">Numero de tarjeta ' + indiceCard + '</label>'
-                            + '</div></div><div class="col-xl-3"><div class="col-md-12 mb-3"><input type="text" class="form-control" id="loteTarjet' + indiceCard + '" name="familyNumber">'
+                            + '</div></div><div class="col-xl-3"><div class="col-md-12 mb-3"><input type="text" class="form-control" id="loteTarjet' + indiceCard + '" name="familyNumber" placeholder="' + valorCard.familyNumber + '">'
                             + '</div></div><div class="col-xl-3"><div class="col-md-12 mb-3">'
                             + '<input type="text" id="numberTarjet' + indiceCard + '" class="form-control" placeholder="' + valorCard.cardNumber + '" name="cardNumber"></div></div>'
                             + '<div class="col-xl-3"><div class="col-md-12 mb-3" style="padding: 5px;"><div class="custom-control custom-radio mb-2">'
