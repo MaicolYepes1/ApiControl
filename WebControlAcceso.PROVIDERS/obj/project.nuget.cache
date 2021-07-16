@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPtQBEcpyS5uGlwzHcwvDloEtR6Nuyx9sKxr05ZzSbCnNqwh2ApqyNwF+HBdqtlHNrXgEVZH+2YrUmG5Yn8c5w==",
+  "dgSpecHash": "T7FsZblvik6NfJae2kCUjMevq/MMUDy6h3XLuQ4k04yk7ZjAt/53YkRX2LQn0AW6ffqg1GxE4xhKAKotd9xUFg==",
   "success": true,
-  "projectFilePath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj",
+  "projectFilePath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maico\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Maico\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"

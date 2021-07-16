@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj": {}
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj": {}
   },
   "projects": {
-    "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj",
         "projectName": "WebControlAcceso.MODELS",
-        "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj",
         "projectName": "WebControlAcceso.PROVIDERS",
-        "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.PROVIDERS\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.PROVIDERS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj": {
-                "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj"
+              "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj": {
+                "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj"
               }
             }
           }
@@ -130,18 +130,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj",
         "projectName": "WebControlAcceso.SERVICES",
-        "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.SERVICES\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.SERVICES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,11 +162,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj": {
-                "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj"
+              "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj": {
+                "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.MODELS\\WebControlAcceso.MODELS.csproj"
               },
-              "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj": {
-                "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj"
+              "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj": {
+                "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.PROVIDERS\\WebControlAcceso.PROVIDERS.csproj"
               }
             }
           }
@@ -195,18 +195,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj",
         "projectName": "WebControlAcceso.TEST",
-        "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.TEST\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.TEST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -227,8 +227,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj": {
-                "projectPath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj"
+              "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj": {
+                "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.SERVICES\\WebControlAcceso.SERVICES.csproj"
               }
             }
           }
@@ -279,7 +279,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

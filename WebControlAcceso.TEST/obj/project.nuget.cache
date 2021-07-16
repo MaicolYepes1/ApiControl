@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kz2WJN/e4fgqho5UpQo10dM1wpIr/BE4VdAkCsPAlqqkn8MQiXt5FYOlDBBfUe6uJUkLhRC+Ywj03kYj1wZBbw==",
+  "dgSpecHash": "BA1qKBwECuhSztTlHOAIyecnqYtLLvZ9g5iqPgkksL8rIr23c+Kvfn4rns0Q6CzC8JhjvluScSI8QhzdBCGjOA==",
   "success": true,
-  "projectFilePath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj",
+  "projectFilePath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.TEST\\WebControlAcceso.TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maico\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
     "C:\\Users\\Maico\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

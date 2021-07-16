@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8Tt9AKS7fgmDo3Xwc5dsqvS0kw5jvTg86xyBc7uhLEWXT3yXbvdeRSP5aL420N+XCIij3hTPh3tLQCjucLxwg==",
+  "dgSpecHash": "9pbNHDN6enIpTbcasNmVgdfDPNKTgST0icykFEtyVih9ftMilEiQpTr9CYN2JnE8cWrQ4+hSudga8KcDtXiS/g==",
   "success": true,
-  "projectFilePath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.DEPENDENCY\\WebControlAcceso.DEPENDENCY.csproj",
+  "projectFilePath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.DEPENDENCY\\WebControlAcceso.DEPENDENCY.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maico\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Maico\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

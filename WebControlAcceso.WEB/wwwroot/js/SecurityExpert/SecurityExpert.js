@@ -141,17 +141,19 @@ function getTarjetAsign() {
 }
 
 function addHtmlLvlAccess() {
-    
+    debugger;
     var ids = [];
     for (var i = 0; i < accessLevelsId.IdAccess.length; i++) {
-        var obj = {};
-        let checkBoxCheck = $("#s" + accessLevelsId.IdAccess[i]);
-        if (checkBoxCheck.is(':checked')) {
-            obj['accessLevelId'] = accessLevelsId.IdAccess[i];
+        if (accessLevelsId.IdAccess[i] !== accessLevelsIds.IdAccess[i]) {
+            var obj = {};
+            let checkBoxCheck = $("#s" + accessLevelsId.IdAccess[i]);
+            if (checkBoxCheck.is(':checked')) {
+                obj['accessLevelId'] = accessLevelsId.IdAccess[i];
+            }
+            ids.push(obj);
         }
-        ids.push(obj);
     }
-    
+
     $.ajax({
         async: true,
         url: 'SecurityExpert/GetLevelsById',
@@ -170,9 +172,9 @@ function addHtmlLvlAccess() {
                 data.forEach(function (valor, indice, array) {
                     cont++;
                     html += '<form id ="accessLevels' + valor.accessLevelId + '"><div class="row"><div class="col-xl-2"></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="'
-                        + valor.accessLevelId + '" name="userAccessLevel"><label class="custom-control-label" for="' + valor.accessLevelId + '">' + valor.name +
+                        + valor.accessLevelId + '" name="userAccessLevel" checked><label class="custom-control-label" for="' + valor.accessLevelId + '">' + valor.name +
                         '</label></div></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="Active'
-                        + valor.accessLevelId + '" name="dateActive"><label class="custom-control-label" for="Active' + valor.accessLevelId + '">' + "Active" +
+                        + valor.accessLevelId + '" name="dateActive" checked><label class="custom-control-label" for="Active' + valor.accessLevelId + '">' + "Active" +
                         '</label></div></div><div class="col-xl-2"><label class="form-label">Fecha Inicio - Fecha Fin</label></div><div class="col-xl-4"><div class="input-daterange input-group" id="datepicker-' + cont + '" name="fechas"> <input type="text" class="form-control" name="userAccessLevelStart"> <div class="input-group-append input-group-prepend"> <span class="input-group-text fs-xl"><i class="@(Settings.Theme.IconPrefix) fa-ellipsis-h"></i></span></div><input type="text" class="form-control" name="userAccessLevelEnd"></div></div></div></form>';
                     obj = valor.accessLevelId;
                     accessLevelsIds['IdAccess'].push(obj);
@@ -184,7 +186,7 @@ function addHtmlLvlAccess() {
                 }
                 toastSucces("Cargado con Exito!");
             } else {
-                toastEror(" Con los niveles de acceso");
+                toastEror(" No hay niveles de acceso por agregar o ya fueron agregados.");
             }
         },
         error: function (data) {
@@ -224,11 +226,11 @@ function addSecurity() {
         let d = n.getDate();
         var fecha = "";
         if (m < 10) {
-          fecha = `${d}/0${m}/${y}`
+            fecha = `${d}/0${m}/${y}`
         } else {
-           fecha = `${d}/${m}/${y}`
+            fecha = `${d}/${m}/${y}`
         }
-       
+
         for (var o = 0; o < elementst.length; o++) {
             if (checkBoxCheck.is(':checked')) {
                 objTarjetss['cardDisabled'] = true;
@@ -454,7 +456,7 @@ async function levelAccesGenerate(siteId) {
                 m = n.getMonth() + 1;
                 d = n.getDate();
                 var fecha = d + "-" + m + "-" + y;
-               // $("#levelAccessOn").html("");
+                // $("#levelAccessOn").html("");
                 var html = "";
                 var cont = 0;
                 var obj = {};
@@ -499,7 +501,7 @@ function addLevelAccessChange() {
                 m = n.getMonth() + 1;
                 d = n.getDate();
                 var fecha = d + "-" + m + "-" + y;
-               //$("#LevelAccessOff").html("");
+                //$("#LevelAccessOff").html("");
                 var html = "";
                 var cont = 0;
                 var obj = {};
@@ -632,7 +634,7 @@ function alertSuccess() {
     dialog.init(function () {
         setTimeout(function () {
             dialog.modal('hide');
-        }, 5000);
+        }, 3000);
     });
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cDXr+JRTBHpQslBmZ0nAz6cIyAAeY4miQxP0I4pAzUBLRgdWa41NvC/W3E4Bh/BMYpJ964qOikCk7GKXzPmBLg==",
+  "dgSpecHash": "5hbRcDQDUw8IwIvEM2s1N6qy/PhuHubAM1GO4bPY5U1sil+wT+cRt2W0VtdbfBLryFuBwL2sBNG78xZlscSrzA==",
   "success": true,
-  "projectFilePath": "D:\\Control de Acceso Visitantes Frontend\\WebControlAcceso.WEB\\WebControlAcceso.WEB.csproj",
+  "projectFilePath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\ApiControl\\WebControlAcceso.WEB\\WebControlAcceso.WEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maico\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Maico\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
