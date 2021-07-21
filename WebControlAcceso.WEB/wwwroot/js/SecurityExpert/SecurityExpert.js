@@ -174,7 +174,7 @@ function addHtmlLvlAccess() {
                     html += '<form id ="accessLevels' + valor.accessLevelId + '"><div class="row"><div class="col-xl-2"></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="'
                         + valor.accessLevelId + '" name="userAccessLevel" checked><label class="custom-control-label" for="' + valor.accessLevelId + '">' + valor.name +
                         '</label></div></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="Active'
-                        + valor.accessLevelId + '" name="dateActive" checked><label class="custom-control-label" for="Active' + valor.accessLevelId + '">' + "Active" +
+                        + valor.accessLevelId + '" name="dateActive"><label class="custom-control-label" for="Active' + valor.accessLevelId + '">' + "Active" +
                         '</label></div></div><div class="col-xl-2"><label class="form-label">Fecha Inicio - Fecha Fin</label></div><div class="col-xl-4"><div class="input-daterange input-group" id="datepicker-' + cont + '" name="fechas"> <input type="text" class="form-control" name="userAccessLevelStart"> <div class="input-group-append input-group-prepend"> <span class="input-group-text fs-xl"><i class="@(Settings.Theme.IconPrefix) fa-ellipsis-h"></i></span></div><input type="text" class="form-control" name="userAccessLevelEnd"></div></div></div></form>';
                     obj = valor.accessLevelId;
                     accessLevelsIds['IdAccess'].push(obj);
@@ -341,40 +341,66 @@ function updateSecurity() {
         InfoTarjet: [],
         LevelAccess: []
     };
-    debugger;
     for (var i = 0; i < cont; i++) {
-        //let it = document.getElementById('numberTarjet' + i + '').value;
-        //let tarjet = tarjetsAsign.find(element => element == it);
-        //if (tarjet) {
-        //    toastEror(" El número de tarjeta " + i + " ya está asignado!");
-        //    return;
-        //}
+        let it = document.getElementById('numberTarjet' + i + '').value;
+        let tarjet = tarjetsAsign.find(element => element == it);
+        if (tarjet) {
+            toastEror(" El número de tarjeta " + i + " ya está asignado!");
+            return;
+        }
         let objTarjetss = {};
         var elementst = document.getElementById("tarjetsForm" + i + "").elements;
         var init = document.getElementById("initdate").value;
         var end = document.getElementById("enddate").value;
         let checkBoxCheck = $("#tarjet" + i);
+        let checkBoxCheckInit = $("#initDateCheck");
+        let checkBoxCheckEnd = $("#endDateCheck");
+        let n = new Date();
+        let y = n.getFullYear();
+        let m = n.getMonth() + 1;
+        let d = n.getDate();
+        var fecha = "";
+        if (m < 10) {
+            fecha = `${d}/0${m}/${y}`
+        } else {
+            fecha = `${d}/${m}/${y}`
+        }
+
         for (var o = 0; o < elementst.length; o++) {
             if (checkBoxCheck.is(':checked')) {
-                objTarjetss['cardDisabled'] = 1;
+                objTarjetss['cardDisabled'] = true;
             } else {
-                objTarjetss['cardDisabled'] = 0;
+                objTarjetss['cardDisabled'] = false;
+            }
+            if (checkBoxCheckInit.is(':checked')) {
+                objTarjetss['Init'] = true;
+            } else {
+                objTarjetss['Init'] = false;
+            }
+            if (checkBoxCheckEnd.is(':checked')) {
+                objTarjetss['End'] = true;
+            } else {
+                objTarjetss['End'] = false;
             }
             var item = elementst.item(o);
             objTarjetss[item.name] = item.value;
-            objTarjetss['startDate'] = init;
-            objTarjetss['expiritDate'] = end;
         }
         obj['InfoTarjet'].push(objTarjetss);
     }
 
-    for (var i = 0; i < accessLevelsIdUser.IdAccess.length; i++) {
+    for (var i = 0; i < accessLevelsIds.IdAccess.length; i++) {
         let objAccess = {};
-        var elementsAccess = document.getElementById("accessLevels" + accessLevelsIdUser.IdAccess[i] + "").elements;
-        let checkBoxCheck = $("#" + accessLevelsIdUser.IdAccess[i]);
+        var elementsAccess = document.getElementById("accessLevels" + accessLevelsId.IdAccess[i] + "").elements;
+        let checkBoxCheck = $("#" + accessLevelsId.IdAccess[i]);
+        let checkBoxCheckActive = $("#Active" + accessLevelsId.IdAccess[i]);
         if (checkBoxCheck.is(':checked')) {
             for (var e = 0; e < elementsAccess.length; e++) {
                 let item = elementsAccess.item(e);
+                if (checkBoxCheckActive.is(':checked')) {
+                    objAccess['UserAccessLevelExpire'] = true;
+                } else {
+                    objAccess['UserAccessLevelExpire'] = false;
+                }
                 objAccess['userAccessLevel'] = checkBoxCheck[0].id.replace("'", "");
                 if (item.name != 'userLevelAccess') {
                     objAccess[item.name] = item.value;
@@ -401,7 +427,7 @@ function updateSecurity() {
     objArea['CustomFieldID'] = 3;
     objArea['CustomFieldType'] = 7;
     objArea['UserCustomFieldGroupDataID'] = 0;
-    objArea['CustomFieldNumericalData'] = document.getElementById('Combo0').value;
+    objArea['CustomFieldNumericalData'] = document.getElementById('Combo3').value;
     objArea['CustomFieldTextData'] = '';
     objArea['Site'] = document.getElementById('Sites').value;
     objDependency['Area'].push(objArea);
@@ -420,7 +446,7 @@ function updateSecurity() {
     objIdentificacion['CustomFieldType'] = 0;
     objIdentificacion['UserCustomFieldGroupDataID'] = 0;
     objIdentificacion['CustomFieldNumericalData'] = 0;
-    objIdentificacion['CustomFieldTextData'] = document.getElementById('2').value;
+    objIdentificacion['CustomFieldTextData'] = document.getElementById('0').value;
     objIdentificacion['Site'] = document.getElementById('Sites').value;
     objDependency['Identificacion'].push(objIdentificacion);
     obj['Dependency'].push(objDependency);
@@ -573,10 +599,10 @@ function change() {
                     var obj = {};
                     data.access.forEach(function (valor, indice, array) {
                         contl++;
-                        html += '<form id ="accessLevels' + valor.accessLevelId + '"><div class="row"><div class="col-xl-2"></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="'
-                            + valor.accessLevelId + '" name="userAccessLevel" checked><label class="custom-control-label" for="' + valor.accessLevelId + '">' + valor.name +
+                        html += '<form id ="accessLevels' + valor.userAccessLevel + '"><div class="row"><div class="col-xl-2"></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="'
+                            + valor.userAccessLevel + '" name="userAccessLevel" checked><label class="custom-control-label" for="' + valor.userAccessLevel + '">' + valor.name +
                             '</label></div></div><div class="col-xl-2"><div class="custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" id="Active'
-                            + valor.accessLevelId + '" name="dateActive"><label class="custom-control-label" for="Active' + valor.accessLevelId + '">' + "Active" +
+                            + valor.userAccessLevel + '" name="dateActive"><label class="custom-control-label" for="Active' + valor.userAccessLevel + '">' + "Active" +
                             '</label></div></div><div class="col-xl-2"><label class="form-label">Fecha Inicio - Fecha Fin</label></div><div class="col-xl-4"><div class="input-daterange input-group" id="datepicker-' + cont + '" name="fechas"> <input type="text" class="form-control" name="userAccessLevelStart"> <div class="input-group-append input-group-prepend"> <span class="input-group-text fs-xl"><i class="@(Settings.Theme.IconPrefix) fa-ellipsis-h"></i></span></div><input type="text" class="form-control" name="userAccessLevelEnd"></div></div></div></form>';
                         obj = valor.userAccessLevel;
                         accessLevelsIdUser['IdAccess'].push(obj);
@@ -587,7 +613,7 @@ function change() {
                     }
                 }
 
-                if (data.cards.length > 0) {
+                if (data.cards != null) {
                     var html = "";
                     data.cards.forEach(function (valorCard, indiceCard, array) {
                         html += '<form id="tarjetsForm' + indiceCard + '"><div class="row" ><div class="col-xl-3"><div class="col-md-12 mb-3" style="text-align: center; padding: 7px;"><label class="form-label">Numero de tarjeta ' + indiceCard + '</label>'
