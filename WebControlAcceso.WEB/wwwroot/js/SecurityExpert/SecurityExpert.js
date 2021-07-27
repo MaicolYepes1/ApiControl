@@ -141,7 +141,6 @@ function getTarjetAsign() {
 }
 
 function addHtmlLvlAccess() {
-    debugger;
     var ids = [];
     for (var i = 0; i < accessLevelsId.IdAccess.length; i++) {
         if (accessLevelsId.IdAccess[i] !== accessLevelsIds.IdAccess[i]) {
@@ -343,11 +342,6 @@ function updateSecurity() {
     };
     for (var i = 0; i < cont; i++) {
         let it = document.getElementById('numberTarjet' + i + '').value;
-        let tarjet = tarjetsAsign.find(element => element == it);
-        if (tarjet) {
-            toastEror(" El número de tarjeta " + i + " ya está asignado!");
-            return;
-        }
         let objTarjetss = {};
         var elementst = document.getElementById("tarjetsForm" + i + "").elements;
         var init = document.getElementById("initdate").value;
@@ -385,6 +379,7 @@ function updateSecurity() {
             var item = elementst.item(o);
             objTarjetss[item.name] = item.value;
         }
+        objTarjetss['UserId'] = id;
         obj['InfoTarjet'].push(objTarjetss);
     }
 
@@ -400,12 +395,14 @@ function updateSecurity() {
                     objAccess['UserAccessLevelExpire'] = true;
                 } else {
                     objAccess['UserAccessLevelExpire'] = false;
+                    objAccess['']
                 }
                 objAccess['userAccessLevel'] = checkBoxCheck[0].id.replace("'", "");
                 if (item.name != 'userLevelAccess') {
                     objAccess[item.name] = item.value;
                 }
             }
+            objAccess['UserId'] = id;
             obj['LevelAccess'].push(objAccess);
         }
     }
@@ -559,7 +556,6 @@ function addLevelAccessChange() {
 }
 
 function change() {
-    debugger;
     let UserID = document.getElementById("selectPeople").value;
     id = UserID;
     let x = document.getElementById("updateButton");
@@ -592,7 +588,7 @@ function change() {
         success: function (data) {
             if (data != null) {
 
-                if (data.access.length > 0) {
+                if (data.access != null) {
                     $("#levelAccesOn").html("");
                     var html = "";
                     var contl = 0;
@@ -627,11 +623,8 @@ function change() {
                     });
                     $("#tarjets").append(html);
                     for (var i = 0; i < data.cards.length; i++) {
-                        //let checkBoxCheck = $("#tarjet" + i);
-                        //if (data.cards[i].cardDisabled) {
-                        //    checkBoxCheck.style = 'checked';
-                        //}
                         document.getElementById("numberTarjet" + i).value = data.cards[i].cardNumber;
+                        document.getElementById("loteTarjet" + i).value = data.cards[i].familyNumber;
                     }
                 }
                 if (data.customs.length > 0) {
