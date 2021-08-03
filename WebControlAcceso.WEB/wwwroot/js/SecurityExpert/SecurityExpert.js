@@ -1,6 +1,9 @@
 ﻿let ide;
 let id;
 let customIds;
+let option1 = 0;
+let option2 = 0;
+let doco = 0;
 let accessLevelsId = {
     IdAccess: []
 };
@@ -385,9 +388,9 @@ function updateSecurity() {
 
     for (var i = 0; i < accessLevelsIds.IdAccess.length; i++) {
         let objAccess = {};
-        var elementsAccess = document.getElementById("accessLevels" + accessLevelsId.IdAccess[i] + "").elements;
-        let checkBoxCheck = $("#" + accessLevelsId.IdAccess[i]);
-        let checkBoxCheckActive = $("#Active" + accessLevelsId.IdAccess[i]);
+        var elementsAccess = document.getElementById("accessLevels" + accessLevelsIds.IdAccess[i] + "").elements;
+        let checkBoxCheck = $("#" + accessLevelsIds.IdAccess[i]);
+        let checkBoxCheckActive = $("#Active" + accessLevelsIds.IdAccess[i]);
         if (checkBoxCheck.is(':checked')) {
             for (var e = 0; e < elementsAccess.length; e++) {
                 let item = elementsAccess.item(e);
@@ -456,8 +459,10 @@ function updateSecurity() {
         success: function (data) {
             if (data == true) {
                 toastSucces("Agregado con Exito!");
+                window.location.reload();
             } else {
-                toastEror();
+                toastEror("Ocurrió un error actualizando el registro, por favor intente de nuevo.");
+                window.location.reload();
             }
         },
         error: function (data) {
@@ -555,7 +560,7 @@ function addLevelAccessChange() {
     });
 }
 
-function change() {
+async function change() {
     let UserID = document.getElementById("selectPeople").value;
     id = UserID;
     let x = document.getElementById("updateButton");
@@ -567,9 +572,7 @@ function change() {
     let y = document.getElementById("saveButton");
     if (y.style.display === 'none') {
         y.style.display = 'block';
-    } else {
-        y.style.display = 'none';
-    }
+    } 
     let ud = dataUser.find(element => element.userId == UserID);
     $("#nombresYapellidos").val(ud.firstName + " " + ud.lastName);
     $("#nombresVis").val(ud.firstName);
@@ -578,7 +581,7 @@ function change() {
     $("#initdate").val(ud.startDate.split('T')[0]);
     $("#enddate").val(ud.expiritDate.split('T')[0]);
     $("#Sites").val(ud.siteId);
-    getCustomFields(ud.siteId);
+    await getCustomFields(ud.siteId);
     var obj = {};
     obj['UserID'] = UserID;
     $.ajax({
@@ -603,6 +606,7 @@ function change() {
                         obj = valor.userAccessLevel;
                         accessLevelsIdUser['IdAccess'].push(obj);
                     });
+                    document.getElementById("levelAccesOn").innerHTML = "";
                     $("#levelAccesOn").append(html);
                     for (var i = 1; i <= data.access.length; i++) {
                         runDatePicker("datepicker-" + i);
@@ -621,6 +625,7 @@ function change() {
                             + '<label class="custom-control-label" for= "tarjet' + indiceCard + '">Deshabilitar</label ></div ></div ></div ></div ></div ></form>';
                         cont++;
                     });
+                    document.getElementById("tarjets").innerHTML = "";
                     $("#tarjets").append(html);
                     for (var i = 0; i < data.cards.length; i++) {
                         document.getElementById("numberTarjet" + i).value = data.cards[i].cardNumber;
@@ -628,9 +633,9 @@ function change() {
                     }
                 }
                 if (data.customs.length > 0) {
-                    $("#Combo3").val(data.customs[1].customFieldNumericalData);
-                    $("#0").val(data.customs[0].customFieldTextData);
-                    $("#Combo4").val(data.customs[2].customFieldNumericalData);
+                    option1 = data.customs[1].customFieldNumericalData;
+                    option2 = data.customs[2].customFieldNumericalData;
+                    doco = data.customs[0].customFieldTextData;
                 }
 
             } else {
@@ -737,6 +742,9 @@ async function getCustomFields(siteId) {
                 customIds = fieldsId;
                 fieldsId.forEach(async function (id) {
                     await getFieldList(id);
+                    $("#Combo3").val(option1);
+                    $("#0").val(doco);
+                    $("#Combo4").val(option2);
                 });
                 if (ide != 0 || ide != "undefined") {
                     document.getElementById("0").value = ide;

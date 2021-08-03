@@ -54,3 +54,17 @@ D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\net
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CopyComplete
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.deps.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.csproj.CopyComplete
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb

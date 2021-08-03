@@ -32,3 +32,12 @@ D:\Control de Acceso Visitantes Frontend\WebControlAcceso.MODELS\obj\Debug\netco
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.csproj.CoreCompileInputs.cache
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.deps.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.MODELS\obj\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb

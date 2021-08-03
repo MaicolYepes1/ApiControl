@@ -46,3 +46,15 @@ D:\Control de Acceso Visitantes Frontend\WebControlAcceso.PROVIDERS\obj\Debug\ne
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.csproj.CopyComplete
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.deps.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.csproj.CopyComplete
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.PROVIDERS\obj\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb

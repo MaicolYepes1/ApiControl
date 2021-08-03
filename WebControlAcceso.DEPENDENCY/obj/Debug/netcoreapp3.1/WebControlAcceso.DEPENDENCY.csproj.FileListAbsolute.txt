@@ -62,3 +62,19 @@ D:\Control de Acceso Visitantes Frontend\WebControlAcceso.DEPENDENCY\obj\Debug\n
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.csproj.CopyComplete
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.dll
 D:\Control de Acceso Visitantes Frontend\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.deps.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.PROVIDERS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.SERVICES.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\bin\Debug\netcoreapp3.1\WebControlAcceso.MODELS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.csproj.CopyComplete
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.DEPENDENCY\obj\Debug\netcoreapp3.1\WebControlAcceso.DEPENDENCY.pdb

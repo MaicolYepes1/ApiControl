@@ -13,35 +13,35 @@ namespace WebControlAcceso.WEB.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\Pages\_Imports.razor"
+#line 1 "C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.WEB\Pages\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\Pages\_Imports.razor"
+#line 2 "C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.WEB\Pages\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\Pages\_Imports.razor"
+#line 3 "C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.WEB\Pages\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\Pages\_Imports.razor"
+#line 4 "C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.WEB\Pages\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\Pages\_Imports.razor"
+#line 5 "C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.WEB\Pages\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
@@ -56,7 +56,7 @@ using Microsoft.AspNetCore.Components.Web;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 24 "D:\Control de Acceso Visitantes Frontend\WebControlAcceso.WEB\Pages\HelloWorld.razor"
+#line 24 "C:\Users\Maico\OneDrive\Documentos\GitHub\ApiControl\WebControlAcceso.WEB\Pages\HelloWorld.razor"
        
     string Name { get; set; } = "SmartAdmin Blazor";
     void Toggle() => Name = Name == "SmartAdmin Blazor" ? "SmartAdmin" : "SmartAdmin Blazor";
